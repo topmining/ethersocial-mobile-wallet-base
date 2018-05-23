@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="translator_name"></string>
 
-    <string name="app_name">EtherSocial Wallet</string>
+    <string name="app_name">Ethersocial Wallet</string>
 
     <string name="action_settings">설정</string>
     <string name="title_activity_main">EtherSocial Wallet</string>
@@ -891,7 +891,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.</p>
 
-<p>    EtherSocial Wallet is a free and open source Ethereum Wallet for Android</p>
+<p>    Ethersocial Wallet is a free and open source Ethereum Wallet for Android</p>
 <p>    Copyright (C) 2017  Manuel S. Caspari</p>
 
 <p>    This program is free software: you can redistribute it and/or modify
@@ -912,7 +912,7 @@ the "copyright" line and a pointer to where the full notice is found.</p>
 <p> If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:</p>
 
-<p>    EtherSocial Wallet  Copyright (C) 2017  Manuel S. Caspari
+<p>    Ethersocial Wallet  Copyright (C) 2017  Manuel S. Caspari
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c for details.</p>
@@ -933,7 +933,7 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.</p>
 
-<p><h2>Privacy Policy - EtherSocial Wallet</h2></p>
+<p><h2>Privacy Policy - Ethersocial Wallet</h2></p>
 
 <p><b>Data protection</b></p>
 
@@ -943,7 +943,7 @@ If there are further questions please don\t hesitate to contact us as we are hap
 For app usage statistics we use Google Analytics. More details about Google Analytics can be found in the paragraph "Privacy Policy for the use of Google Analytics".</p>
 
 <p><b>Privacy Policy for the use of Google Analytics</b></p>
-<p>This section is only relevant for users that downloaded EtherSocial Wallet from Google Play or the \"Google Play flavor\" from Github. F-Droid and Amazon Appstore builds are compiled without Google Analytics!</p>
+<p>This section is only relevant for users that downloaded Ethersocial Wallet from Google Play or the \"Google Play flavor\" from Github. F-Droid and Amazon Appstore builds are compiled without Google Analytics!</p>
 <p>This app uses Google Analytics, an analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your device, to help analyze how users use it. The information generated about your use of this app (including your IP address) is sent to and stored at a Google server in the U.S.A. Google will use this information on behalf of the operator of this app for the purpose of evaluating your use of the app, compiling reports on activity for operators and providing them other services relating to app activity and usage. The IP-address, that your device conveys within the scope of Google Analytics, will not be associated with any other data held by Google. For more information about Google Analytics visit <a href="https://google.com/analytics/terms">https://google.com/analytics/terms</a></p>
 
 
